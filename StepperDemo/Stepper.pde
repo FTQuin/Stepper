@@ -1,4 +1,4 @@
-String MOUSE = "MOUSE"; //<>//
+String MOUSE = "MOUSE";
 String LOOP = "LOOP";
 String ONCE = "ONCE";
 
